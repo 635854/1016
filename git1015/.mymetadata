@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="git1015"
+  id="myeclipse.1444892238623"
+  context-root="/git1015"
+  j2ee-spec="6.0"
+  archive="git1015.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
